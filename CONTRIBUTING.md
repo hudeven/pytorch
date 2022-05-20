@@ -784,8 +784,8 @@ linking will dominate. The system linker available in most Linux distributions
 
 People on Mac, follow [this guide](https://stackoverflow.com/questions/42730345/how-to-install-llvm-for-mac) instead.
 
-The easiest way to use `lld` this is download the
-[latest LLVM binaries](http://releases.llvm.org/download.html#8.0.0) and run:
+The easiest way to use `lld` is downloading the
+[latest LLVM binaries](https://releases.llvm.org/download.html) and running:
 
 ```bash
 ln -s /path/to/downloaded/ld.lld /usr/local/bin/ld
